@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PACKAGE="tpl.crashreporting.template"
-ACTIVITY="tpl.crashreporting.template.MainActivity"
+PACKAGE="tpl.crashreporting.newrelic"
+ACTIVITY="tpl.crashreporting.newrelic.MainActivity"
 
 # Launch app
 adb shell am start -n $PACKAGE/$ACTIVITY

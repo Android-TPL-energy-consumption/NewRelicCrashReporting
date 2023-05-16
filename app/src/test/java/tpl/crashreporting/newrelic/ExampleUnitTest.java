@@ -1,4 +1,4 @@
-package tpl.crashreporting.template;
+package tpl.crashreporting.newrelic;
 
 import org.junit.Test;
 

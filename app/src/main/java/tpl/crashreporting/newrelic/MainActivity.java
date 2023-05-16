@@ -1,4 +1,4 @@
-package tpl.crashreporting.template;
+package tpl.crashreporting.newrelic;
 
 import androidx.appcompat.app.AppCompatActivity;
 import com.newrelic.agent.android.NewRelic;
